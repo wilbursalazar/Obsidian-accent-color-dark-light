@@ -1,0 +1,10 @@
+{
+  "id": "accent-color-plugin",
+  "name": "Accent Color Plugin",
+  "version": "1.0.0",
+  "minAppVersion": "0.12.0",
+  "description": "A plugin to set different accent colors for light and dark themes.",
+  "author": "Wilbur Salazar",
+  "authorUrl": "https://wilbursalazar.com",
+  "isDesktopOnly": false
+}
